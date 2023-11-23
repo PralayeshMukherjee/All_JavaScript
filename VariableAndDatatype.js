@@ -23,3 +23,17 @@ isCorrect1 = false;
 isCorrect2 = true;
 console.log(isCorrect1, isCorrect2);
 // JavaScript is a Dynamically Typed Language means we don't need to defined the variable type in front of the variable so we can easily change any data type to another data type.
+
+// variable defining
+let fullName = "Raj Mukherjee";
+console.log(fullName);
+fullName = "Pralayesh Mukherjee";
+console.log(fullName);
+
+var age = 24;
+var age = 23;
+var age = 12;
+console.log(age);
+
+const pi = 3.14;
+console.log(pi);
